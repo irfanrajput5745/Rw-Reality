@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Cartis Beautyful script';
+    src: url('CartisBeautyful-Script.eot');
+    src: url('CartisBeautyful-Script.eot?#iefix') format('embedded-opentype'),
+        url('CartisBeautyful-Script.woff2') format('woff2'),
+        url('CartisBeautyful-Script.woff') format('woff'),
+        url('CartisBeautyful-Script.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cartis Beautyful script';
+    src: url('CartisBeautyful-Script_1.eot');
+    src: url('CartisBeautyful-Script_1.eot?#iefix') format('embedded-opentype'),
+        url('CartisBeautyful-Script_1.woff2') format('woff2'),
+        url('CartisBeautyful-Script_1.woff') format('woff'),
+        url('CartisBeautyful-Script_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cartis Beautyful';
+    src: url('CartisBeautyfulRegular.eot');
+    src: url('CartisBeautyfulRegular.eot?#iefix') format('embedded-opentype'),
+        url('CartisBeautyfulRegular.woff2') format('woff2'),
+        url('CartisBeautyfulRegular.woff') format('woff'),
+        url('CartisBeautyfulRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cartis Beautyful';
+    src: url('CartisBeautyfulRegular_1.eot');
+    src: url('CartisBeautyfulRegular_1.eot?#iefix') format('embedded-opentype'),
+        url('CartisBeautyfulRegular_1.woff2') format('woff2'),
+        url('CartisBeautyfulRegular_1.woff') format('woff'),
+        url('CartisBeautyfulRegular_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
